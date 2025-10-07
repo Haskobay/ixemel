@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <medias>
     <media>
-        <title>Counter Strike</title>
+        <title>BurakOyunda (Twitch)</title>
         <thumb>https://img.youtube.com/vi/oW7nBZ8AONc/0.jpg</thumb>
         <type>twitch</type>
-        <src>auracstv</src>
+        <src>burakoyunda</src>
     </media>
     <media>
-        <title>Lost Soul Aside</title>
+        <title>Wenotrat (Twitch)</title>
         <thumb>https://img.youtube.com/vi/iJyu_kQ4nZI/0.jpg</thumb>
         <type>twitch</type>
-        <src>bugzade</src>
+        <src>wenotrat</src>
+    </media>
+    <media>
+        <title>smashhttv (Twitch)</title>
+        <thumb>https://img.youtube.com/vi/iJyu_kQ4nZI/0.jpg</thumb>
+        <type>twitch</type>
+        <src>smashhttv</src>
+    </media>
+    <media>
+        <title>timurlengx (Twitch)</title>
+        <thumb>https://img.youtube.com/vi/iJyu_kQ4nZI/0.jpg</thumb>
+        <type>twitch</type>
+        <src>timurlengx</src>
     </media>
     <media>
         <title>PUBG BattleGrounds</title>
@@ -18,7 +30,7 @@
         <type>kick</type>
         <src>10000DAYS</src>
     </media>
-<media>
+    <media>
         <title>IRL Yayını</title>
         <thumb>https://img.youtube.com/vi/oCvBvY6MtQg/0.jpg</thumb>
         <type>kick</type>
@@ -30,19 +42,19 @@
         <type>youtube</type>
         <src>0s23MDc5W_A</src>
     </media>
- <media>
+    <media>
         <title>World of tanks</title>
         <thumb>https://img.youtube.com/vi/HBRgGARetag/0.jpg</thumb>
         <type>youtube</type>
         <src>HBRgGARetag</src>
     </media>
- <media>
+    <media>
         <title>PUBG</title>
         <thumb>https://img.youtube.com/vi/rtb7j_AZn4w/0.jpg</thumb>
         <type>nimotv</type>
         <src>777090216</src>
     </media>
- <media>
+    <media>
         <title>GTAV</title>
         <thumb>https://img.youtube.com/vi/1U68ECDKoXM/0.jpg</thumb>
         <type>nimotv</type>
