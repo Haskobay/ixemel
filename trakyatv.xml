@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<medias>
+    <media>
+        <title>Tekirdağ Sahil</title>
+        <thumb>https://www.tekirdag.bel.tr/assets/2025/img/logo.png</thumb>
+        <type>m3u8</type>
+        <src>https://wowza.tekirdag.bel.tr:4443/sahil/sahil.stream/chunklist_w312855167.m3u8</src>
+    </media>
+    <media>
+        <title>Trakya Türk</title>
+        <thumb>https://pbs.twimg.com/profile_images/949202227587174400/FPKkSBxx_400x400.jpg</thumb>
+        <type>m3u8</type>
+        <src>http://46.31.145.202:8888/live/trakyaturk/stream.m3u8</src>
+    </media>
+    <media>
+        <title>EdirneTV</title>
+        <thumb>http://haskobay.somee.com/Logo/edirnetv.png</thumb>
+        <type>m3u8</type>
+        <src>https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8</src>
+    </media>
+<media>
+        <title>TonTV</title>
+        <thumb>http://haskobay.somee.com/Logo/ton.png</thumb>
+        <type>m3u8</type>
+        <src>https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8</src>
+    </media>
+    <media>
+        <title>BalkanTürk</title>
+        <thumb>https://www.balkanlartv.com/wp-content/uploads/2024/09/balkanturk.jpg</thumb>
+        <type>m3u8</type>
+        <src>https://live.euromediacenter.com/balkanturktv/index.m3u8</src>
+    </media>
+</medias>
+

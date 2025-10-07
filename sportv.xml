@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<medias>
+    <media>
+        <title>TRTSPOR</title>
+        <thumb>https://img.youtube.com/vi/oW7nBZ8AONc/0.jpg</thumb>
+        <type>m3u8</type>
+        <src>https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8</src>
+    </media>
+    <media>
+        <title>TRTSPOR YILDIZ</title>
+        <thumb>https://img.youtube.com/vi/iJyu_kQ4nZI/0.jpg</thumb>
+        <type>m3u8</type>
+        <src>https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8</src>
+    </media>
+    <media>
+        <title>HTSPOR</title>
+        <thumb>https://img.youtube.com/vi/RdpqsTbi_KU/0.jpg</thumb>
+        <type>youtube</type>
+        <src>RdpqsTbi_KU</src>
+    </media>
+<media>
+        <title>ASPOR</title>
+        <thumb>https://img.youtube.com/vi/oCvBvY6MtQg/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCJElRTCNEmLemgirqvsW63Q</src>
+    </media>
+    <media>
+        <title>EKOL Sports</title>
+        <thumb>https://img.youtube.com/vi/0s23MDc5W_A/0.jpg</thumb>
+        <type>m3u8</type>
+        <src>https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?token=v7XsiLUcG347S69Frzusqw</src>
+    </media>
+ <media>
+        <title>SPORTSTV</title>
+        <thumb>https://img.youtube.com/vi/HBRgGARetag/0.jpg</thumb>
+        <type>m3u8</type>
+        <src>https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8</src>
+    </media>
+ <media>
+        <title>BEIN SPORTS HABER</title>
+        <thumb>https://img.youtube.com/vi/rtb7j_AZn4w/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCPe9vNjHF1kEExT5kHwc7aw</src>
+    </media>
+ <media>
+        <title>FBTV</title>
+        <thumb>https://img.youtube.com/vi/1U68ECDKoXM/0.jpg</thumb>
+        <type>m3u8</type>
+        <src>https://1hskrdto.rocketcdn.com/fenerbahcetv.stream/chunklist.m3u8</src>
+    </media>
+<media>
+        <title>NOWSPOR</title>
+        <thumb>https://img.youtube.com/vi/1U68ECDKoXM/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCHowoDxzhyCPQBzhOpeP4-w</src>
+    </media>
+<media>
+        <title>Glarung</title>
+        <thumb>https://img.youtube.com/vi/1U68ECDKoXM/0.jpg</thumb>
+        <type>kick</type>
+        <src>Glarung</src>
+    </media>
+<media>
+        <title>Lefter</title>
+        <thumb>https://img.youtube.com/vi/1U68ECDKoXM/0.jpg</thumb>
+        <type>kick</type>
+        <src>Lefter</src>
+    </media>
+<media>
+        <title>Burak Güngör</title>
+        <thumb>https://img.youtube.com/vi/1U68ECDKoXM/0.jpg</thumb>
+        <type>kick</type>
+        <src>burakgungor</src>
+    </media>
+</medias>

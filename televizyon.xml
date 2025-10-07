@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tvs>
+    <channel>
+        <name>TRT 1</name>
+        <url>http://95.174.71.114:80/TR-TRT1/index.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+    </channel>
+    <channel>
+        <name>Show TV</name>
+        <url>https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+    </channel>
+    <channel>
+        <name>Star TV</name>
+        <url>https://dogus-live.daioncdn.net/startv/startv_720p.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+    </channel>
+    <channel>
+        <name>NOW</name>
+        <url>https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+    </channel>
+    <channel>
+        <name>TV8</name>
+        <url>https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+    </channel>
+    <channel>
+        <name>BEYAZTV</name>
+        <url>https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+    </channel>
+    <channel>
+        <name>360</name>
+        <url>https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+    </channel>
+    <channel>
+        <name>KANAL7</name>
+        <url>https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+    </channel>
+    <channel>
+        <name>TV4</name>
+        <url>https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+    </channel>
+
+
+
+
+
+
+
+
+
+
+
+</tvs>
+
