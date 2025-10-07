@@ -67,16 +67,22 @@
         <src>mithrain</src>
     </media>
     <media>
+        <title>Teneke Kafalar (Youtube)</title>
+        <thumb>https://img.youtube.com/JYJCGDIxxeA/0.jpg</thumb>
+        <type>youtube</type>
+        <src>JYJCGDIxxeA</src>
+    </media>
+    <media>
         <title>BattleBots (Youtube)</title>
         <thumb>https://img.youtube.com/vi/T67rfXBdimc/0.jpg</thumb>
         <type>youtube</type>
-        <src>UCxNDM5ZhvDa_Z1qTUap7IRw</src>
+        <src>T67rfXBdimc</src>
     </media>
     <media>
         <title>Red Bull Gamerszon (Youtube)</title>
         <thumb>https://img.youtube.com/vi/S89mOQcxZ1Q/0.jpg</thumb>
         <type>youtube</type>
-        <src>UCyjk1p8uLdyxFzNpkdUYssA</src>
+        <src>S89mOQcxZ1Q</src>
     </media>
     <media>
         <title>PUBG</title>
