@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<medias>
+    <media>
+        <title>Geveze Serçe</title>
+        <thumb>https://img.youtube.com/vi/fPtWHv1TrjE/0.jpg</thumb>
+        <type>youtube</type>
+        <src>fPtWHv1TrjE</src>
+    </media>
+    <media>
+        <title>Yavru Köpekler</title>
+        <thumb>https://img.youtube.com/vi/3Jc8EmhUbLE/0.jpg</thumb>
+        <type>youtube</type>
+        <src>3Jc8EmhUbLE</src>
+    </media>
+    <media>
+        <title>Pencereden Sis</title>
+        <thumb>https://img.youtube.com/vi/cCRvbrEPbQI/0.jpg</thumb>
+        <type>youtube</type>
+        <src>cCRvbrEPbQI</src>
+    </media>
+<media>
+        <title>Mevsim Kış Olunca 1</title>
+        <thumb>https://img.youtube.com/vi/3XyTwMSsKxc/0.jpg</thumb>
+        <type>youtube</type>
+        <src>3XyTwMSsKxc</src>
+    </media>
+    <media>
+        <title>Mevsim Kış Olunca 2</title>
+        <thumb>https://img.youtube.com/vi/JIrdGVNtm9M/0.jpg</thumb>
+        <type>youtube</type>
+        <src>JIrdGVNtm9M</src>
+    </media>
+ <media>
+        <title>Kar Manzarası</title>
+        <thumb>https://img.youtube.com/vi/Ioo1Vd91oec/0.jpg</thumb>
+        <type>youtube</type>
+        <src>Ioo1Vd91oec</src>
+    </media>
+ <media>
+        <title>Kumrular</title>
+        <thumb>https://img.youtube.com/vi/i4seQKchik8/0.jpg</thumb>
+        <type>youtube</type>
+        <src>i4seQKchik8</src>
+    </media>
+</medias>
