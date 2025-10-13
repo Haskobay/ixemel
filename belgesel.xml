@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<medias>
+    <media>
+        <title>NatureTime</title>
+        <thumb>https://img.youtube.com/vi/gC_YZh_OHRc/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCRMv2kgJPTerIW96lkfXdAA</src>
+    </media>
+<media>
+        <title>DMAX Türkiye</title>
+        <thumb>https://img.youtube.com/vi/t1TaNys7xd8/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCuEgo07zsZr_FTcNTETRS5Q</src>
+    </media>
+<media>
+        <title>TGRT Belgesel</title>
+        <thumb>https://img.youtube.com/vi/wBKE-R1tppY/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCkQV7uH1Otv47CZz6tD3jGQ</src>
+    </media>
+<media>
+        <title>TLC SUÇ</title>
+        <thumb>https://img.youtube.com/vi/ZZaW33xTChU/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UC5AeaBZIUZQpVeGMobcPI2Q</src>
+    </media>
+<media>
+        <title>Love Nature</title>
+        <thumb>https://img.youtube.com/vi/daqB3i9WYIY/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCRZPkuHwaoKwTP3CYPdVldg</src>
+    </media>
+<media>
+        <title>Discovery</title>
+        <thumb>https://img.youtube.com/vi/ZNhLaZH_egs/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCqOoboPm3uhY_YXhvhmL-WA</src>
+    </media>
+<media>
+        <title>EarthTouch</title>
+        <thumb>https://img.youtube.com/vi/6SSOEZ8zKpA/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCnavGPxEijftXneFxk28srA</src>
+    </media>
+
+</medias>
