@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<medias>
+    <media>
+        <title>BurakSakinOl (Kick)</title>
+        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
+        <type>kick</type>
+        <src>buraksakinol</src>
+    </media>
+ <media>
+        <title>Kanal Türkiye (Youtube)</title>
+        <thumb>https://img.youtube.com/-GetZQcqZ2g/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UC454P1VaOtCf9wh85Pm-1wQ</src>
+    </media>
+<media>
+        <title>Özlem Gürses (Youtube)</title>
+        <thumb>https://img.youtube.com/vi/YO_8zHBNn2w/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCojOP7HHZvM2nZz4Rwnd6-Q</src>
+    </media>
+</medias>
+
