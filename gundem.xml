@@ -1,57 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <medias>
     <media>
-        <title>TRTHABER</title>
-        <thumb>https://img.youtube.com/vi/ZdLjZxaqCeQ/0.jpg</thumb>
-        <type>m3u8</type>
-        <src>https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8</src>
+        <title>BurakOyunda (Twitch)</title>
+        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
+        <type>kick</type>
+        <src>buraksakinol</src>
     </media>
-    <media>
-        <title>CNNTÜRK</title>
-        <thumb>https://img.youtube.com/vi/ABtji6e77Uk/0.jpg</thumb>
+ <media>
+        <title>Kanal Türkiye</title>
+        <thumb>https://img.youtube.com/-GetZQcqZ2g/0.jpg</thumb>
         <type>youtube</type>
-        <src>5ozXavTNkgM</src>
-    </media>
-    <media>
-        <title>TGRT HABER</title>
-        <thumb>https://img.youtube.com/vi/TsB0xYOH0AU/0.jpg</thumb>
-        <type>youtube</type>
-        <src>TsB0xYOH0AU</src>
+        <src>UC454P1VaOtCf9wh85Pm-1wQ</src>
     </media>
 <media>
-        <title>HABER GLOBAL</title>
-        <thumb>https://img.youtube.com/vi/40eAcb52Tls/0.jpg</thumb>
-        <type>m3u8</type>
-        <src>https://icecast.netmedya.net/kupefm</src>
+        <title>Özlem Gürses</title>
+        <thumb>https://img.youtube.com/vi/YO_8zHBNn2w/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCojOP7HHZvM2nZz4Rwnd6-Q</src>
+    </media>
+
+
+
+
+
+
+
+
+    
+    <media>
+        <title>smashhttv (Twitch)</title>
+        <thumb>https://img.youtube.com/vi/OWFaV8Nymzs/0.jpg</thumb>
+        <type>twitch</type>
+        <src>smashhttv</src>
     </media>
     <media>
-        <title>AHABER</title>
-        <thumb>https://img.youtube.com/vi/nmY9i63t6qo/0.jpg</thumb>
-        <type>m3u8</type>
-        <src>https://sssx.radyosfer.com/radyoseker/stream</src>
+        <title>timurlengx (Twitch)</title>
+        <thumb>https://img.youtube.com/vi/OWFaV8Nymzs/0.jpg</thumb>
+        <type>twitch</type>
+        <src>timurlengx</src>
     </media>
- <media>
-        <title>NTV</title>
-        <thumb>https://img.youtube.com/vi/pqq5c6k70kk/0.jpg</thumb>
-        <type>youtube</type>
-        <src>UC9TDTjbOjFB9jADmPhSAPsw</src>
+    <media>
+        <title>10000DAYS (Kick)</title>
+        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
+        <type>kick</type>
+        <src>10000DAYS</src>
     </media>
- <media>
-        <title>HABER TÜRK</title>
-        <thumb>https://img.youtube.com/vi/RNVNlJSUFoE/0.jpg</thumb>
-        <type>youtube</type>
-        <src>RNVNlJSUFoE</src>
+    <media>
+        <title>ilkinsan (kick)</title>
+        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
+        <type>kick</type>
+        <src>ilkinsan</src>
     </media>
- <media>
-        <title>HALKTV</title>
-        <thumb>https://img.youtube.com/vi/aUTEoiNROkE/0.jpg</thumb>
-        <type>youtube</type>
-        <src>M_sfRrVezWA</src>
+    <media>
+        <title>zeusidiouss (kick)</title>
+        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
+        <type>kick</type>
+        <src>zeusidiouss</src>
     </media>
-<media>
-        <title>SÖZCÜTV</title>
-        <thumb>https://img.youtube.com/vi/4jTLfFkrH6k/0.jpg</thumb>
+    <media>
+        <title>ertassla (kick)</title>
+        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
+        <type>kick</type>
+        <src>ertassla</src>
+    </media>
+    <media>
+        <title>khonus (kick)</title>
+        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
+        <type>kick</type>
+        <src>khonus</src>
+    </media>
+    <media>
+        <title>zgocbrayt (kick)</title>
+        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
+        <type>kick</type>
+        <src>zgocbrayt</src>
+    </media>
+    <media>
+        <title>mithrain (kick)</title>
+        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
+        <type>kick</type>
+        <src>mithrain</src>
+    </media>
+   
+    <media>
+        <title>BattleBots (Youtube)</title>
+        <thumb>https://img.youtube.com/vi/T67rfXBdimc/0.jpg</thumb>
         <type>youtube</type>
-        <src>iCKX1Ex36ps</src>
+        <src>T67rfXBdimc</src>
+    </media>
+    <media>
+        <title>Red Bull Gamerszon (Youtube)</title>
+        <thumb>https://img.youtube.com/vi/S89mOQcxZ1Q/0.jpg</thumb>
+        <type>youtube</type>
+        <src>S89mOQcxZ1Q</src>
     </media>
 </medias>
+

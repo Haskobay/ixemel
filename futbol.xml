@@ -1,75 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <medias>
-    <media>
-        <title>TRTSPOR</title>
-        <thumb>https://img.youtube.com/vi/oW7nBZ8AONc/0.jpg</thumb>
-        <type>m3u8</type>
-        <src>https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8</src>
-    </media>
-    <media>
-        <title>TRTSPOR YILDIZ</title>
-        <thumb>https://img.youtube.com/vi/iJyu_kQ4nZI/0.jpg</thumb>
-        <type>m3u8</type>
-        <src>https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8</src>
-    </media>
-    <media>
-        <title>HTSPOR</title>
-        <thumb>https://img.youtube.com/vi/RdpqsTbi_KU/0.jpg</thumb>
-        <type>youtube</type>
-        <src>RdpqsTbi_KU</src>
-    </media>
-<media>
-        <title>ASPOR</title>
-        <thumb>https://img.youtube.com/vi/oCvBvY6MtQg/0.jpg</thumb>
-        <type>youtube</type>
-        <src>UCJElRTCNEmLemgirqvsW63Q</src>
-    </media>
-    <media>
-        <title>EKOL Sports</title>
-        <thumb>https://img.youtube.com/vi/0s23MDc5W_A/0.jpg</thumb>
-        <type>m3u8</type>
-        <src>https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?token=v7XsiLUcG347S69Frzusqw</src>
-    </media>
  <media>
-        <title>SPORTSTV</title>
-        <thumb>https://img.youtube.com/vi/HBRgGARetag/0.jpg</thumb>
-        <type>m3u8</type>
-        <src>https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8</src>
-    </media>
- <media>
-        <title>BEIN SPORTS HABER</title>
-        <thumb>https://img.youtube.com/vi/rtb7j_AZn4w/0.jpg</thumb>
-        <type>youtube</type>
-        <src>UCPe9vNjHF1kEExT5kHwc7aw</src>
-    </media>
- <media>
-        <title>FBTV</title>
-        <thumb>https://img.youtube.com/vi/1U68ECDKoXM/0.jpg</thumb>
-        <type>m3u8</type>
-        <src>https://1hskrdto.rocketcdn.com/fenerbahcetv.stream/chunklist.m3u8</src>
-    </media>
-<media>
-        <title>NOWSPOR</title>
-        <thumb>https://img.youtube.com/vi/1U68ECDKoXM/0.jpg</thumb>
-        <type>youtube</type>
-        <src>UCHowoDxzhyCPQBzhOpeP4-w</src>
-    </media>
-<media>
-        <title>Glarung</title>
-        <thumb>https://img.youtube.com/vi/1U68ECDKoXM/0.jpg</thumb>
+        <title>Glarung (Kick)</title>
+        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
         <type>kick</type>
         <src>Glarung</src>
     </media>
-<media>
-        <title>Lefter</title>
-        <thumb>https://img.youtube.com/vi/1U68ECDKoXM/0.jpg</thumb>
+    <media>
+        <title>Lefter (kick)</title>
+        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
         <type>kick</type>
         <src>Lefter</src>
     </media>
-<media>
-        <title>Burak Güngör</title>
-        <thumb>https://img.youtube.com/vi/1U68ECDKoXM/0.jpg</thumb>
+    <media>
+        <title>burakgungor (kick)</title>
+        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
         <type>kick</type>
         <src>burakgungor</src>
     </media>
+ <media>
+        <title>emrekurtulmus (kick)</title>
+        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
+        <type>kick</type>
+        <src>emrekurtulmus</src>
+    </media>
+ <media>
+        <title>Fenerbahçe (youtube)</title>
+        <thumb>https://img.youtube.com/vi/CDw0AfUdKOM/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCgqlho3-8a6FmDqQm7Q6gJw </src>
+    </media>
+  <media>
+        <title>Hodri Meydan (Youtube)</title>
+        <thumb>https://img.youtube.com/vi/OQMf2bfhikk/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCo4V66blwCzoTNMfQsV5VZg</src>
+    </media>
+    <media>
+        <title>LüeTV (Youtube)</title>
+        <thumb>https://img.youtube.com/vi/_lpz0uB5MIs/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UChhFYbMdv8oUEoHM4SpobuA</src>
+    </media>
+ <media>
+        <title>futbolstil (kick)</title>
+        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
+        <type>kick</type>
+        <src>futbolstil</src>
+    </media>
+ <media>
+        <title>TaktikManiaPlus (Youtube)</title>
+        <thumb>https://img.youtube.com/vi/atkEJsC6JZg/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCCK46fHhBsqQCplpgt-ct_w</src>
+    </media>
+<media>
+        <title>Galatasaray (Youtube)</title>
+        <thumb>https://img.youtube.com/vi/mq8vyCvc5Tc/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCQpeujIamj2ZOKXZnrxTRhA</src>
+    </media>
+
+
+
+
+
+
+
+
+
+  
+   
+   
+   
+   
+    <media>
+        <title>mithrain (kick)</title>
+        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
+        <type>kick</type>
+        <src>mithrain</src>
+    </media>
+    <media>
+        <title>Teneke Kafalar (Youtube)</title>
+        <thumb>https://img.youtube.com/JYJCGDIxxeA/0.jpg</thumb>
+        <type>youtube</type>
+        <src>JYJCGDIxxeA</src>
+    </media>
+    <media>
+        <title>BattleBots (Youtube)</title>
+        <thumb>https://img.youtube.com/vi/T67rfXBdimc/0.jpg</thumb>
+        <type>youtube</type>
+        <src>T67rfXBdimc</src>
+    </media>
+    <media>
+        <title>Red Bull Gamerszon (Youtube)</title>
+        <thumb>https://img.youtube.com/vi/S89mOQcxZ1Q/0.jpg</thumb>
+        <type>youtube</type>
+        <src>S89mOQcxZ1Q</src>
+    </media>
+    <media>
+        <title>Uzayistasyonu (NimoTV)</title>
+        <thumb>https://img.youtube.com/vi/7UOj_W6KnKU/0.jpg</thumb>
+        <type>nimotv</type>
+        <src>5244573277</src>
+    </media>
+    <media>
+        <title>judgemerve (Nimotv)</title>
+        <thumb>https://img.youtube.com/vi/7UOj_W6KnKU/0.jpg</thumb>
+        <type>nimotv</type>
+        <src>5183581202</src>
+    </media>
 </medias>
+
