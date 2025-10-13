@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <medias>
-    <media>
-        <title>Tekirdağ Karşılaması</title>
-        <thumb>https://img.youtube.com/vi/oW7nBZ8AONc/0.jpg</thumb>
-        <type>youtube</type>
-        <src>oW7nBZ8AONc</src>
-    </media>
-    <media>
+<media>
         <title>Tekirdag City Center</title>
         <thumb>https://img.youtube.com/vi/or2AhvBRe9U/0.jpg</thumb>
         <type>youtube</type>

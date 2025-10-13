@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <medias>
  <media>
+        <title>Tekirdağ Karşılaması</title>
+        <thumb>https://img.youtube.com/vi/oW7nBZ8AONc/0.jpg</thumb>
+        <type>youtube</type>
+        <src>oW7nBZ8AONc</src>
+    </media>
+ <media>
         <title>Trakya Düğünü</title>
         <thumb>https://img.youtube.com/vi/rtb7j_AZn4w/0.jpg</thumb>
         <type>youtube</type>
