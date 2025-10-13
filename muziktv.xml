@@ -12,14 +12,79 @@
         <type>m3u8</type>
         <src>https://host.onlineradyotv.net:8081/esfatv/tracks-v1a1/mono.m3u8</src>
     </media>
-
-
 <media>
         <title>MİLYON TV</title>
         <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
         <type>m3u8</type>
         <src>https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8</src>
     </media>
+<media>
+        <title>4TürkPop</title>
+        <thumb>https://img.youtube.com/vi/JVocS7Yftw8/0.jpg</thumb>
+        <type>m3u8</type>
+        <src>https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8</src>
+    </media>
+<media>
+        <title>Kral Pop TV</title>
+        <thumb>https://img.youtube.com/vi/GuFTuKoXepw/0.jpg</thumb>
+        <type>youtube</type>
+        <src>GuFTuKoXepw</src>
+    </media>
+<media>
+        <title>NovaTV</title>
+        <thumb>https://img.youtube.com/vi/3YEk8Xy3pTs/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCJulUprbsYQg5oDfmAnAtwg</src>
+    </media>
+<media>
+        <title>MusicAZhit</title>
+        <thumb>https://img.youtube.com/vi/yvWggAG_x1I/0.jpg</thumb>
+        <type>m3u8</type>
+        <src>https://cdn4.yayin.com.tr/musicazhit/video.m3u8</src>
+    </media>
+<media>
+        <title>YRF Music</title>
+        <thumb>https://img.youtube.com/vi/yvWggAG_x1I/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCjeD2I8jwXg2l_nvXb_6Hzw</src>
+    </media>
+<media>
+        <title>BalleBalle</title>
+        <thumb>https://img.youtube.com/vi/yvWggAG_x1I/0.jpg</thumb>
+        <type>m3u8</type>
+        <src>https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8</src>
+    </media>
+<media>
+        <title>THE K-POP</title>
+        <thumb>https://img.youtube.com/vi/JVocS7Yftw8/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCoRXPcv8XK5fAplLbk9PTww</src>
+    </media>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
