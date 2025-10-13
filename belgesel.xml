@@ -25,22 +25,54 @@
         <src>UC5AeaBZIUZQpVeGMobcPI2Q</src>
     </media>
 <media>
-        <title>Explore</title>
-        <thumb>https://img.youtube.com/vi/daqB3i9WYIY/0.jpg</thumb>
-        <type>youtube</type>
-        <src>UCUtGnX65osNPQ98Y3-SSgpg</src>
-    </media>
-<media>
-        <title>Travel</title>
-        <thumb>https://img.youtube.com/vi/ZNhLaZH_egs/0.jpg</thumb>
-        <type>youtube</type>
-        <src>UCJUAqHnkDX15IvFoXIGTm2A </src>
-    </media>
-<media>
         <title>Nat Geo WILD</title>
         <thumb>https://img.youtube.com/vi/6SSOEZ8zKpA/0.jpg</thumb>
         <type>youtube</type>
         <src>UCDPk9MG2RexnOMGTD-YnSnA</src>
     </media>
+
+
+
+
+
+
+
+<media>
+        <title>Love Nature</title>
+        <thumb>https://img.youtube.com/vi/daqB3i9WYIY/0.jpg</thumb>
+        <type>youtube</type>
+        <src>daqB3i9WYIY</src>
+    </media>
+<media>
+        <title>Travel</title>
+        <thumb>https://img.youtube.com/vi/ZNhLaZH_egs/0.jpg</thumb>
+        <type>youtube</type>
+        <src>ZNhLaZH_egs</src>
+    </media>
+<media>
+        <title>Travel</title>
+        <thumb>https://img.youtube.com/vi/ZNhLaZH_egs/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCJUAqHnkDX15IvFoXIGTm2A</src>
+    </media>
+
+<media>
+        <title>Love Nature</title>
+        <thumb>https://img.youtube.com/vi/daqB3i9WYIY/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCRZPkuHwaoKwTP3CYPdVldg</src>
+    </media>
+
+
+
+
+
+
+
+
+
+
+
+
 
 </medias>
