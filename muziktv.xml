@@ -25,6 +25,12 @@
         <src>https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8</src>
     </media>
 <media>
+        <title>MMNTürk</title>
+        <thumb>https://img.youtube.com/vi/JVocS7Yftw8/0.jpg</thumb>
+        <type>m3u8</type>
+        <src>http://mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist_w1571985729.m3u8</src>
+    </media>
+<media>
         <title>Kral Pop TV</title>
         <thumb>https://img.youtube.com/vi/GuFTuKoXepw/0.jpg</thumb>
         <type>youtube</type>
@@ -48,7 +54,12 @@
         <type>youtube</type>
         <src>UCoRXPcv8XK5fAplLbk9PTww</src>
     </media>
-
+   <media>
+        <title>Venedigitall</title>
+        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
+        <type>kick</type>
+        <src>venedigitall</src>
+    </media>
 
 
 
