@@ -31,6 +31,18 @@
         <src>anarguia</src>
     </media>
 <media>
+        <title>kaanflix (Kick)</title>
+        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
+        <type>kick</type>
+        <src>kaanflix</src>
+    </media>
+<media>
+        <title>Cüneyt Özdemir (Youtube)</title>
+        <thumb>https://img.youtube.com/vi/Q4bIqZIIXXM/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCkwHQ7DWv9aqEtvAOSO74dQ</src>
+    </media>
+<media>
         <title>Nevşin Mengü (Youtube)</title>
         <thumb>https://img.youtube.com/vi/Q4bIqZIIXXM/0.jpg</thumb>
         <type>youtube</type>
@@ -49,6 +61,12 @@
         <src>UCun2Dl8daN--PBivgQJZn_w</src>
     </media>
 <media>
+        <title>News TÜRK (Youtube)</title>
+        <thumb>https://img.youtube.com/vi/Q4bIqZIIXXM/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UC1VSU2yx--kZalKodbPFTFQ</src>
+    </media>
+<media>
         <title>Kanal Türkiye (Youtube)</title>
         <thumb>https://img.youtube.com/vi/Q4bIqZIIXXM/0.jpg</thumb>
         <type>youtube</type>
@@ -60,5 +78,23 @@
         <type>youtube</type>
         <src>UCojOP7HHZvM2nZz4Rwnd6-Q</src>
     </media>
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
 </medias>
 
