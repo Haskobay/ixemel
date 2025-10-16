@@ -1,0 +1,15 @@
+<channels>
+  <channel>
+    <name>Bit TV</name>
+    <url>https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8</url>
+    <logo>/logos/bit.png</logo>
+    <type>player</type>
+  </channel>
+
+  <channel>
+    <name>TRT Spor</name>
+    <url>https://www.tabii.com/tr/watch/live/trt1?trackId=150002</url>
+    <logo>/logos/trtspor.png</logo>
+    <type>site</type>
+  </channel>
+</channels>
