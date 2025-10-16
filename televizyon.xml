@@ -5,12 +5,64 @@
     <logo>/Logo/ozel.png</logo>
     <type>site</type>
   </channel>
-  <channel>
+<channel>
     <name>BeyazTV</name>
     <url>https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8</url>
     <logo>/Logo/ozel.png</logo>
     <type>player</type>
   </channel>
+
+
+
+
+   <channel>
+        <name>360</name>
+        <url>https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+      <type>player</type>
+    </channel>
+    <channel>
+        <name>KANAL7</name>
+        <url>https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+       <type>player</type>
+    </channel>
+    <channel>
+        <name>TV4</name>
+        <url>https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+       <type>player</type>
+    </channel>
+<channel>
+        <name>TYT Türk</name>
+        <url>https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+   <type>player</type>
+    </channel>
+    <channel>
+        <name>Cine1</name>
+        <url>https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+       <type>player</type>
+    </channel>
+ <channel>
+        <name>Bi Kanal</name>
+        <url>https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+    <type>player</type>
+    </channel>
+ <channel>
+        <name>Tivi6</name>
+        <url>https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+    <type>player</type>
+    </channel>
+ <channel>
+        <name>BirTV</name>
+        <url>https://edge.socialsmart.tv/birtv/bant1/playlist.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+    <type>player</type>
+    </channel>
 
  
 </channels>
