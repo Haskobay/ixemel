@@ -6,6 +6,42 @@
     <logo>/Logo/ozel.png</logo>
     <type>site</type>
   </channel>
+ <channel>
+        <name>Show TV</name>
+        <url>https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_360p.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+      <type>player</type>
+   </channel>
+   <channel>
+    <name>ATV</name>
+    <url>https://www.atv.com.tr/canli-yayin</url>
+    <logo>/Logo/ozel.png</logo>
+    <type>site</type>
+  </channel>
+<channel>
+    <name>KanalD</name>
+    <url>https://www.kanald.com.tr/canli-yayin</url>
+    <logo>/Logo/ozel.png</logo>
+    <type>site</type>
+  </channel>
+<channel>
+    <name>STARTV</name>
+    <url>https://www.startv.com.tr/canli-yayin</url>
+    <logo>/Logo/ozel.png</logo>
+    <type>site</type>
+  </channel>
+<channel>
+    <name>NOWTV</name>
+    <url>https://staging.nowtv.com.tr/canli-yayin</url>
+    <logo>/Logo/ozel.png</logo>
+    <type>site</type>
+  </channel>
+<channel>
+    <name>TV8</name>
+    <url>https://www.tv8.com.tr/canli-yayin</url>
+    <logo>/Logo/ozel.png</logo>
+    <type>site</type>
+  </channel>
 <channel>
     <name>BeyazTV</name>
     <url>https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8</url>
@@ -31,7 +67,7 @@
        <type>player</type>
     </channel>
 <channel>
-        <name>TYT Türk</name>
+        <name>TYT Turk</name>
         <url>https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8</url>
         <logo>/Logo/ozel.png</logo>
    <type>player</type>
@@ -60,13 +96,6 @@
         <logo>/Logo/ozel.png</logo>
     <type>player</type>
     </channel>
-<channel>
-        <name>Show TV</name>
-        <url>https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_360p.m3u8</url>
-        <logo>/Logo/ozel.png</logo>
-<type>player</type>
-    </channel>
-   </channels>
 
 
 
@@ -74,6 +103,7 @@
 
 
 
+</channels>
 
 
 
