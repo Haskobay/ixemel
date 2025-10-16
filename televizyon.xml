@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <channels>
    <channel>
     <name>TRT1</name>
@@ -66,17 +65,7 @@
         <logo>/Logo/ozel.png</logo>
 <type>player</type>
     </channel>
-   
- 
-</channels>
-
-
-
-
-
-
-
-
+   </channels>
 
 
 
