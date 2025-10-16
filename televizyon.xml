@@ -1,28 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tvs>
-    <channel>
-        <name>TRT 1</name>
-        <url>http://95.174.71.114:80/TR-TRT1/index.m3u8</url>
-        <logo>/Logo/ozel.png</logo>
-    </channel>
-    <channel>
+   <channel>
         <name>Show TV</name>
-        <url>https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8</url>
+        <url>https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_360p.m3u8</url>
         <logo>/Logo/ozel.png</logo>
     </channel>
     <channel>
         <name>Star TV</name>
-        <url>https://dogus-live.daioncdn.net/startv/startv_720p.m3u8</url>
-        <logo>/Logo/ozel.png</logo>
-    </channel>
-    <channel>
-        <name>NOW</name>
-        <url>https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8</url>
-        <logo>/Logo/ozel.png</logo>
-    </channel>
-    <channel>
-        <name>TV8</name>
-        <url>https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8</url>
+        <url>https://mn-nl.mncdn.com/dogusdyg_star/live_1080p3000000kbps/index.m3u8?st=kLLFzPGTucSPsml2bietWQ&e=1760666531</url>
         <logo>/Logo/ozel.png</logo>
     </channel>
     <channel>
@@ -45,8 +30,31 @@
         <url>https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8</url>
         <logo>/Logo/ozel.png</logo>
     </channel>
-
-
+<channel>
+        <name>TYT Türk</name>
+        <url>https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+    </channel>
+    <channel>
+        <name>Cine1</name>
+        <url>https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+    </channel>
+ <channel>
+        <name>Bi Kanal</name>
+        <url>https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+    </channel>
+ <channel>
+        <name>Tivi6</name>
+        <url>https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+    </channel>
+ <channel>
+        <name>BirTV</name>
+        <url>https://edge.socialsmart.tv/birtv/bant1/playlist.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+    </channel>
 
 
 
