@@ -12,11 +12,7 @@
     <logo>/Logo/ozel.png</logo>
     <type>player</type>
   </channel>
-
-
-
-
-   <channel>
+<channel>
         <name>360</name>
         <url>https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8</url>
         <logo>/Logo/ozel.png</logo>
@@ -65,5 +61,40 @@
     <type>player</type>
     </channel>
 
+
+
+ <channel>
+        <name>Show TV</name>
+        <url>https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_360p.m3u8</url>
+        <logo>/Logo/ozel.png</logo>
+    </channel>
+    <channel>
+        <name>Star TV</name>
+        <url>https://mn-nl.mncdn.com/dogusdyg_star/live_1080p3000000kbps/index.m3u8?st=kLLFzPGTucSPsml2bietWQ&e=1760666531</url>
+        <logo>/Logo/ozel.png</logo>
+    </channel>
  
 </channels>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+   
