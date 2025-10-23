@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <medias>
     <media>
+        <title>Minnoş Gaming (Facebook)</title>
+        <thumb>https://img.youtube.com/vi/OWFaV8Nymzs/0.jpg</thumb>
+        <type>facebook</type>
+        <src>https://www.facebook.com/minnosgaming/videos/1914241049140752</src>
+    </media>
+<media>
+        <title>GameMasterPro (Dailymotion)</title>
+        <thumb>https://img.youtube.com/vi/OWFaV8Nymzs/0.jpg</thumb>
+        <type>dailymotion</type>
+        <src>x9s5hd0</src>
+    </media>
+<media>
         <title>BurakOyunda (Twitch)</title>
         <thumb>https://img.youtube.com/vi/OWFaV8Nymzs/0.jpg</thumb>
         <type>twitch</type>
