@@ -8,13 +8,13 @@
     </media>
 <media>
         <title>ESFA TV</title>
-        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
+        <thumb>https://img.youtube.com/vi/8BmUc5KswLY/0.jpg</thumb>
         <type>m3u8</type>
         <src>https://host.onlineradyotv.net:8081/esfatv/tracks-v1a1/mono.m3u8</src>
     </media>
 <media>
         <title>4TürkPop</title>
-        <thumb>https://img.youtube.com/vi/JVocS7Yftw8/0.jpg</thumb>
+        <thumb>https://img.youtube.com/vi/8BmUc5KswLY/0.jpg</thumb>
         <type>m3u8</type>
         <src>https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8</src>
     </media>
@@ -32,13 +32,13 @@
     </media>
 <media>
         <title>MusicAZhit</title>
-        <thumb>https://img.youtube.com/vi/yvWggAG_x1I/0.jpg</thumb>
+        <thumb>https://img.youtube.com/vi/8BmUc5KswLY/0.jpg</thumb>
         <type>m3u8</type>
         <src>https://cdn4.yayin.com.tr/musicazhit/video.m3u8</src>
     </media>
 <media>
         <title>4Müzik</title>
-        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
+        <thumb>https://img.youtube.com/vi/8BmUc5KswLY/0.jpg</thumb>
         <type>m3u8</type>
         <src>https://4muhls.persiana.live/hls/stream.m3u8</src>
     </media>
@@ -61,19 +61,33 @@
         <src>venedigitall</src>
     </media>
 <media>
-        <title>Dancehits80</title>
+        <title>ActivaTV</title>
         <thumb>https://img.youtube.com/vi/8BmUc5KswLY/0.jpg</thumb>
         <type>m3u8</type>
         <src>https://streamtv.mediasector.es/hls/activatv/index.m3u8</src>
     </media>
+<media>
+        <title>Afrobeats</title>
+        <thumb>https://img.youtube.com/vi/8BmUc5KswLY/0.jpg</thumb>
+        <type>m3u8</type>
+        <src>https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8</src>
+    </media>
+<media>
+        <title>Kronehit</title>
+        <thumb>https://img.youtube.com/vi/8BmUc5KswLY/0.jpg</thumb>
+        <type>m3u8</type>
+        <src>https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8</src>
+    </media>
+<media>
+        <title>Amusic</title>
+        <thumb>https://img.youtube.com/vi/8BmUc5KswLY/0.jpg</thumb>
+        <type>m3u8</type>
+        <src>https://30a-tv.com/feeds/720p/6.m3u8</src>
+    </media>
 
-
-
-
-
-
-
-
+  
+ 
+   
 
 
 
