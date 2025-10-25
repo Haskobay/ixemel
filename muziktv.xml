@@ -55,15 +55,17 @@
         <src>venedigitall</src>
     </media>
 <media>
-        <title>4Müzik</title>
-        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
+        <title>Dancehits80</title>
+        <thumb>https://img.youtube.com/vi/8BmUc5KswLY/0.jpg</thumb>
         <type>m3u8</type>
-        <src>https://208.79.153.42/akamaissh101/ssh101/HiMusicTv/playlist.m3u8</src>
+        <src>http://dancehits80.denvs.ru:8080/index.m3u8</src>
     </media>
-
-
-
-
+<media>
+        <title>ChillTV</title>
+        <thumb>https://img.youtube.com/vi/8BmUc5KswLY/0.jpg</thumb>
+        <type>m3u8</type>
+        <src>https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/0.m3u8</src>
+    </media>
 
 
 
