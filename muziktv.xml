@@ -25,6 +25,12 @@
         <src>GuFTuKoXepw</src>
     </media>
 <media>
+        <title>KNTV</title>
+        <thumb>https://img.youtube.com/vi/8BmUc5KswLY/0.jpg</thumb>
+        <type>m3u8</type>
+        <src>https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8</src>
+    </media>
+<media>
         <title>MusicAZhit</title>
         <thumb>https://img.youtube.com/vi/yvWggAG_x1I/0.jpg</thumb>
         <type>m3u8</type>
@@ -58,14 +64,9 @@
         <title>Dancehits80</title>
         <thumb>https://img.youtube.com/vi/8BmUc5KswLY/0.jpg</thumb>
         <type>m3u8</type>
-        <src>http://dancehits80.denvs.ru:8080/index.m3u8</src>
+        <src>https://streamtv.mediasector.es/hls/activatv/index.m3u8</src>
     </media>
-<media>
-        <title>ChillTV</title>
-        <thumb>https://img.youtube.com/vi/8BmUc5KswLY/0.jpg</thumb>
-        <type>m3u8</type>
-        <src>https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/0.m3u8</src>
-    </media>
+
 
 
 
