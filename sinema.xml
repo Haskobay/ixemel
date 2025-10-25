@@ -56,8 +56,20 @@
     </media>
 <media>
         <title>TeleOnTV</title>
-        <thumb>https://img.youtube.com/vi/utB8Il0K82E/0.jpg</thumb>
+        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
         <type>Kick</type>
         <src>teleontv</src>
+    </media>
+  <media>
+        <title>siriushd (NimoTV)</title>
+        <thumb>https://img.youtube.com/vi/7UOj_W6KnKU/0.jpg</thumb>
+        <type>nimotv</type>
+        <src>5164240861</src>
+    </media>
+    <media>
+        <title>artitv (Nimotv)</title>
+        <thumb>https://img.youtube.com/vi/7UOj_W6KnKU/0.jpg</thumb>
+        <type>nimotv</type>
+        <src>5890861876</src>
     </media>
 </medias>
