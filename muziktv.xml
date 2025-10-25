@@ -25,6 +25,30 @@
         <src>GuFTuKoXepw</src>
     </media>
 <media>
+        <title>DamarTV</title>
+        <thumb>https://img.youtube.com/vi/8BmUc5KswLY/0.jpg</thumb>
+        <type>m3u8</type>
+        <src>https://livetv.work/play/tr/damartv.php</src>
+    </media>
+<media>
+        <title>AvivaTV</title>
+        <thumb>https://img.youtube.com/vi/8BmUc5KswLY/0.jpg</thumb>
+        <type>m3u8</type>
+        <src>https://livetv.work/play/tr/vivatv.php</src>
+    </media>
+<media>
+        <title>EzoTV</title>
+        <thumb>https://img.youtube.com/vi/8BmUc5KswLY/0.jpg</thumb>
+        <type>m3u8</type>
+        <src>https://livetv.work/play/tr/ezotv.php</src>
+    </media>
+<media>
+        <title>GüçlüTV</title>
+        <thumb>https://img.youtube.com/vi/8BmUc5KswLY/0.jpg</thumb>
+        <type>m3u8</type>
+        <src>https://yayin.santraltr.com/hls/zeynotv.m3u8</src>
+    </media>
+<media>
         <title>KNTV</title>
         <thumb>https://img.youtube.com/vi/8BmUc5KswLY/0.jpg</thumb>
         <type>m3u8</type>
@@ -47,6 +71,12 @@
         <thumb>https://img.youtube.com/vi/yvWggAG_x1I/0.jpg</thumb>
         <type>youtube</type>
         <src>UCjeD2I8jwXg2l_nvXb_6Hzw</src>
+    </media>
+<media>
+        <title>Punjabihit</title>
+        <thumb>https://img.youtube.com/vi/yvWggAG_x1I/0.jpg</thumb>
+        <type>m3u8</type>
+        <src>https://server.thelegitpro.in/punjabihit/punjabihits/tracks-v1a1/mono.m3u8</src>
     </media>
 <media>
         <title>THE K-POP</title>
@@ -84,30 +114,4 @@
         <type>m3u8</type>
         <src>https://30a-tv.com/feeds/720p/6.m3u8</src>
     </media>
-<media>
-        <title>DamarTV</title>
-        <thumb>https://img.youtube.com/vi/8BmUc5KswLY/0.jpg</thumb>
-        <type>m3u8</type>
-        <src>https://livetv.work/play/tr/damartv.php</src>
-    </media>
-  
- 
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </medias>

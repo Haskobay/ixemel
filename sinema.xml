@@ -54,4 +54,10 @@
         <type>youtube</type>
         <src>UCsbpTjR1Vh0L3gvBg9d0Dbg</src>
     </media>
+<media>
+        <title>TeleOnTV</title>
+        <thumb>https://img.youtube.com/vi/utB8Il0K82E/0.jpg</thumb>
+        <type>Kick</type>
+        <src>teleontv</src>
+    </media>
 </medias>
