@@ -66,7 +66,19 @@
         <type>kick</type>
         <src>futbolstil</src>
     </media>
- <media>
+<media>
+        <title>demodetv (kick)</title>
+        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
+        <type>kick</type>
+        <src>demodetv</src>
+    </media>
+<media>
+        <title>remzikamalak (kick)</title>
+        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
+        <type>kick</type>
+        <src>remzikamalak</src>
+    </media>
+<media>
         <title>TaktikManiaPlus (Youtube)</title>
         <thumb>https://img.youtube.com/vi/atkEJsC6JZg/0.jpg</thumb>
         <type>youtube</type>

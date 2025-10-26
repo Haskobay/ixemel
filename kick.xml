@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <medias>
- <media>
-        <title>Minnoş Gaming (Facebook)</title>
-        <thumb>https://img.youtube.com/vi/3ElU94unXTg/0.jpg</thumb>
-        <type>facebook</type>
-        <src>https://www.facebook.com/minnosgaming/videos/1312593350617052</src>
-    </media>
-    <media>
-        <title>DEDE Gamefc (Facebook)</title>
-        <thumb>https://img.youtube.com/vi/3ElU94unXTg/0.jpg</thumb>
-        <type>facebook</type>
-        <src>https://www.facebook.com/DeDeGAMEFC/videos/836081798817151</src>
-    </media>
-    <media>
+<media>
         <title>BurakOyunda (Twitch)</title>
         <thumb>https://img.youtube.com/vi/OWFaV8Nymzs/0.jpg</thumb>
         <type>twitch</type>
@@ -48,7 +36,13 @@
         <type>twitch</type>
         <src>kubrareis</src>
     </media>
-    <media>
+<media>
+        <title>Ohzman (Kick)</title>
+        <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
+        <type>kick</type>
+        <src>Ohzman</src>
+    </media>
+<media>
         <title>10000DAYS (Kick)</title>
         <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
         <type>kick</type>
