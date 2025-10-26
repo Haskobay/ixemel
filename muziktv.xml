@@ -13,6 +13,12 @@
         <src>https://host.onlineradyotv.net:8081/esfatv/tracks-v1a1/mono.m3u8</src>
     </media>
 <media>
+        <title>Fora Müzik</title>
+        <thumb>https://img.youtube.com/vi/8BmUc5KswLY/0.jpg</thumb>
+        <type>m3u8</type>
+        <src>http://145.239.37.125:20458/foramuzik/foramuzik/playlist.m3u8</src>
+    </media>
+<media>
         <title>4TürkPop</title>
         <thumb>https://img.youtube.com/vi/8BmUc5KswLY/0.jpg</thumb>
         <type>m3u8</type>
