@@ -1,42 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <medias>
 <media>
-        <title>BurakOyunda (Twitch)</title>
-        <thumb>https://img.youtube.com/vi/OWFaV8Nymzs/0.jpg</thumb>
-        <type>twitch</type>
-        <src>burakoyunda</src>
-    </media>
-    <media>
-        <title>Wenotrat (Twitch)</title>
-        <thumb>https://img.youtube.com/vi/OWFaV8Nymzs/0.jpg</thumb>
-        <type>twitch</type>
-        <src>wenotrat</src>
-    </media>
-    <media>
-        <title>smashhttv (Twitch)</title>
-        <thumb>https://img.youtube.com/vi/OWFaV8Nymzs/0.jpg</thumb>
-        <type>twitch</type>
-        <src>smashhttv</src>
-    </media>
-    <media>
-        <title>timurlengx (Twitch)</title>
-        <thumb>https://img.youtube.com/vi/OWFaV8Nymzs/0.jpg</thumb>
-        <type>twitch</type>
-        <src>timurlengx</src>
-    </media>
-    <media>
-        <title>kadirbabatv (Twitch)</title>
-        <thumb>https://img.youtube.com/vi/OWFaV8Nymzs/0.jpg</thumb>
-        <type>twitch</type>
-        <src>kadirbabatv</src>
-    </media>
-    <media>
-        <title>kubrareis (Twitch)</title>
-        <thumb>https://img.youtube.com/vi/OWFaV8Nymzs/0.jpg</thumb>
-        <type>twitch</type>
-        <src>kubrareis</src>
-    </media>
-<media>
         <title>Ohzman (Kick)</title>
         <thumb>https://img.youtube.com/vi/r6Fa4p9fLWk/0.jpg</thumb>
         <type>kick</type>
@@ -131,6 +95,42 @@
         <thumb>https://img.youtube.com/vi/7UOj_W6KnKU/0.jpg</thumb>
         <type>nimotv</type>
         <src>5890861876</src>
+    </media>
+<media>
+        <title>BurakOyunda (Twitch)</title>
+        <thumb>https://img.youtube.com/vi/OWFaV8Nymzs/0.jpg</thumb>
+        <type>twitch</type>
+        <src>burakoyunda</src>
+    </media>
+    <media>
+        <title>Wenotrat (Twitch)</title>
+        <thumb>https://img.youtube.com/vi/OWFaV8Nymzs/0.jpg</thumb>
+        <type>twitch</type>
+        <src>wenotrat</src>
+    </media>
+    <media>
+        <title>smashhttv (Twitch)</title>
+        <thumb>https://img.youtube.com/vi/OWFaV8Nymzs/0.jpg</thumb>
+        <type>twitch</type>
+        <src>smashhttv</src>
+    </media>
+    <media>
+        <title>timurlengx (Twitch)</title>
+        <thumb>https://img.youtube.com/vi/OWFaV8Nymzs/0.jpg</thumb>
+        <type>twitch</type>
+        <src>timurlengx</src>
+    </media>
+    <media>
+        <title>kadirbabatv (Twitch)</title>
+        <thumb>https://img.youtube.com/vi/OWFaV8Nymzs/0.jpg</thumb>
+        <type>twitch</type>
+        <src>kadirbabatv</src>
+    </media>
+    <media>
+        <title>kubrareis (Twitch)</title>
+        <thumb>https://img.youtube.com/vi/OWFaV8Nymzs/0.jpg</thumb>
+        <type>twitch</type>
+        <src>kubrareis</src>
     </media>
 </medias>
 
