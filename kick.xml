@@ -61,6 +61,12 @@
         <src>mithrain</src>
     </media>
     <media>
+        <title>Syna (Youtube)</title>
+        <thumb>https://img.youtube.com/vi/nzmRBbL6qmc/0.jpg</thumb>
+        <type>youtube</type>
+        <src>UCvoLzCuhiJ3dC5vdt2Aiupg</src>
+    </media>
+    <media>
         <title>Mirliva (Youtube)</title>
         <thumb>https://img.youtube.com/vi/KnO_6TC2zyw/0.jpg</thumb>
         <type>youtube</type>
