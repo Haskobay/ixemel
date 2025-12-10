@@ -72,4 +72,10 @@
         <type>nimotv</type>
         <src>5890861876</src>
     </media>
+ <media>
+        <title>PlayTV</title>
+        <thumb>https://img.youtube.com/vi/7UOj_W6KnKU/0.jpg</thumb>
+        <type>m3u8</type>
+        <src>https://ip100.radyotelekomtv.com:3784/stream/play.m3u8</src>
+    </media>
 </medias>
