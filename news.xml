@@ -10,13 +10,13 @@
    <title>Sky NEWS</title>
         <thumb>https://img.youtube.com/vi/P-cZrhecMxg/0.jpg</thumb>
         <type>youtube</type>
-        <src>UCoMdktPbSTixAyNGwb-UYkQ</src>
+        <src>P-cZrhecMxg</src>
     </media>
        <media>
         <title>LIVE NOW FOX</title>
         <thumb>https://img.youtube.com/vi/73jcWtK63mE/0.jpg</thumb>
         <type>youtube</type>
-        <src>UCJg9wBPyKMNA5sRDnvzmkdg</src>
+        <src>73jcWtK63mE</src>
     </media>
        <media>
         <title>NBC NEWS</title>
@@ -28,15 +28,12 @@
         <title>ABC NEWS</title>
         <thumb>https://img.youtube.com/vi/XMjCSAHs_fo/0.jpg</thumb>
         <type>youtube</type>
-        <src>UCBi2mrWuNuyYy4gbM6fU18Q</src>
+        <src>XMjCSAHs_fo</src>
     </media>
          <media>
         <title>France24</title>
         <thumb>https://img.youtube.com/vi/Ap-UM1O9RBU/0.jpg</thumb>
         <type>youtube</type>
-        <src>UCQfwfsi5VrQ8yKZ-UWmAEFg</src>
+        <src>Ap-UM1O9RBU</src>
     </media>
 </medias>
-
-
-
